@@ -1,0 +1,17 @@
+[
+{
+  first_name: 'ahmed',
+  last_name: 'elgied',
+  phone: '0115151'
+},
+{
+  first_name: 'mohamed',
+  last_name: 'morad',
+  phone: '4544756756'
+},
+{
+  first_name: 'ali',
+  last_name: 'hamoda',
+  phone: '5456745745'
+}
+]
